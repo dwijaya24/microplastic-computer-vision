@@ -1,7 +1,7 @@
 # Dari Piksel ke Mikroplastik: Memahami Computer Vision Secara Nyata
 
 Computer vision pada dasarnya adalah cara komputer memahami gambar sebagai kumpulan piksel, lalu mengolahnya menjadi informasi yang bisa dikenali.
-Di tulisan ini saya pakai dataset dari Kaggle (Microplastic Dataset for Computer Vision) sebagai contoh. Dataset ini sudah melalui beberapa tahap preprocessing, seperti penyesuaian orientasi gambar (auto-orient), pemotongan area fokus (sekitar 30–85% horizontal dan 15–85% vertikal), serta penyaringan data agar hanya gambar dengan anotasi yang digunakan.
+Di tulisan ini saya pakai dataset dari Kaggle Microplastic Dataset for Computer Vision (https://www.kaggle.com/datasets/imtkaggleteam/microplastic-dataset-for-computer-vision) sebagai contoh. Dataset ini sudah melalui beberapa tahap preprocessing, seperti penyesuaian orientasi gambar (auto-orient), pemotongan area fokus (sekitar 30–85% horizontal dan 15–85% vertikal), serta penyaringan data agar hanya gambar dengan anotasi yang digunakan.
 Data yang tersedia juga dilengkapi dengan bounding box, sehingga setiap partikel mikroplastik dalam gambar punya penanda lokasi yang jelas.
 Dengan struktur seperti ini, pengolahan gambar bisa diarahkan untuk mengenali pola dan posisi mikroplastik secara lebih terukur.
 
