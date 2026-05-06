@@ -37,11 +37,19 @@ Menggunakan virtual environment:
 
 ```bash
 python -m venv cv-mikroplastik
----
+```
+<p align="center"> <img src="https://github.com/dwijaya24/microplastic-computer-vision/raw/main/buat_venv.png" width="500"/> </p>
+
 Mengaktifkan virtual environment:
+
 ```bash
-.\cv-mikroplastik\Scripts\activate
----
-Menginstall Library:
+.\cv-mikroplastik\Scripts\Activate
+```
+<p align="center"> <img src="https://github.com/dwijaya24/microplastic-computer-vision/raw/main/mengaktifkan_venv.png" width="500"/> </p>
+
+Menginstall Library yang Dibutuhkan:
+
 ```bash
-pip install opencv-python numpy matplotlib
+python -m venv cv-mikroplastik
+```
+<p align="center"> <img src="https://github.com/dwijaya24/microplastic-computer-vision/raw/main/install_library.png" width="500"/> </p>
