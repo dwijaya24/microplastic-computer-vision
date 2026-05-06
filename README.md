@@ -37,11 +37,11 @@ Menggunakan virtual environment:
 
 ```bash
 python -m venv cv-mikroplastik
-
+---
 Mengaktifkan virtual environment:
 ```bash
 .\cv-mikroplastik\Scripts\activate
-
+---
 Menginstall Library:
 ```bash
 pip install opencv-python numpy matplotlib
